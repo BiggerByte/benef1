@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming/AI/Quantum Computing
 - 🌱 I’m currently learning C/Python/ML etc
 - 💞️ I’m looking to collaborate on any project 
-- 
+
 
 <!---
 benef1/benef1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
