@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benef1
+- 👋 Hi, I’m @sirhuntx
 - 👀 I’m interested in programming/AI/Quantum Computing
 - 🌱 I’m currently learning C/Python/ML etc
 - 💞️ I’m looking to collaborate on any project 
